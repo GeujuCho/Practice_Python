@@ -4,7 +4,6 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 import numpy as np
-%matplotlib inline
 
 t=np.array([0,1,2,3,4,5,6,7,8,9])
 y=np.array([9,8,7,9,8,3,2,4,3,4])
